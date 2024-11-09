@@ -1,0 +1,5 @@
+fps 60
+#s 1080x1920@60
+#a
+#d
+#as wasapisink
