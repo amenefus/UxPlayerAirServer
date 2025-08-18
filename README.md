@@ -13,7 +13,7 @@ UxPlayerAirServer is a robust AirPlay server designed specifically for Windows 1
 ## Installation
 To install UxPlayerAirServer, follow these steps:
 1. Clone the repo
-2. Install Bonjor SDK from Apple website: [Click Here](https://download.developer.apple.com/Developer_Tools/bonjour_sdk_for_windows_v3.0/bonjoursdksetup.exe)
+2. Install Bonjor SDK from Apple website: [Click Here](https://download.developer.apple.com/Developer_Tools/bonjour_sdk_for_windows_v3.0/bonjoursdksetup.exe) OR Use the attached Installation (3.0)
 3. Run the shortcut: "UxPlay - Shortcut"
 
 
